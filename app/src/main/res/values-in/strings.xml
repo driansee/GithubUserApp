@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="title_activity_main">Pencarian Pengguna Github</string>
+    <string name="title_activity_favorite">Favorit</string>
+    <string name="content_description_avatar">Deskripsi konten Avatar</string>
+    <string name="content_description_end_icon">Ikon Pencarian</string>
+    <string name="search_hint">Nama Pengguna</string>
+    <string name="txt_login">Nama Pengguna : </string>
+    <string name="txt_location">Lokasi : </string>
+    <string name="txt_company">Perusahaan : </string>
+    <string name="txt_repository">Repositori</string>
+    <string name="txt_follower">Pengikut</string>
+    <string name="txt_following">Mengikuti</string>
+    <string name="tab_text_1">Profil</string>
+    <string name="tab_text_2">Pengikut</string>
+    <string name="tab_text_3">Mengikuti</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="menu_favorite">favorit</string>
+    <string name="dialog_title">Tutup GithubUserApp</string>
+    <string name="dialog_supporting_text">Apakah Kamu Ingin menutup aplikasi ini?</string>
+    <string name="dialog_cancel">Batal</string>
+    <string name="dialog_yes">Iya</string>
+
+    <string name="button_set_language">Pengaturan Bahasa</string>
+    <string name="alarm_settings">Pengaturan Alarm</string>
+    <string name="one_time_alarm">Alarm Satu Kali</string>
+    <string name="alarm_date">Tanggal Alarm</string>
+    <string name="set_one_time_alarm">Set Alarm Satu Kali</string>
+    <string name="alarm_message">Pesan Alarm</string>
+    <string name="repeating_alarm">Alarm berulang</string>
+    <string name="set_repeating_alarm">Set Alarm berulang</string>
+    <string name="cancel_alarm">Batalkan Alarm</string>
+    <string name="alarm_time">Waktu Alarm</string>
+</resources>
