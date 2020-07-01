@@ -15,7 +15,7 @@ and __API__ [Github](https://developer.github.com/v3/).
 - displays a list of favorite with stack widget
 
 ### Library
-- [Fast Android Networking](https://loopj.com/android-async-http/)
+- [Fast Android Networking](https://amitshekhar.me/Fast-Android-Networking/)
 - [CircleImageView](https://github.com/hdodenhof/CircleImageView/)
 - [Glide](https://github.com/bumptech/glide/)
 
